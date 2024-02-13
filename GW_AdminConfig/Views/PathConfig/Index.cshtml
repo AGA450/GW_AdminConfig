@@ -1,0 +1,266 @@
+﻿@using PagedList.Mvc
+@model IEnumerable<PathConfigModel>
+
+@{
+    Layout = "_Layout";
+}
+
+
+    <div class="wrapper">
+        <!-- Left side column. contains the logo and sidebar -->
+        <!-- Right side column. Contains the navbar and content of the page -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <h1>
+                    Application Settings
+                    <small>Configure values for multiple applications</small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+                    <li><a href="#">Settings</a></li>
+                    <li class="active">gw-settings</li>
+                </ol>
+            </section>
+            <!-- Main content -->
+            <section class="content">
+
+            <div class="container-fluid">
+                <div class="row">
+                <!-- Default box --> 
+             
+                        <div class="col-md-12">
+                        <div class="box box-primary">
+                            <div class="box-header with-border">
+                                <h3 class="box-title">General Setting</h3>
+                            </div>
+
+
+                            <form role="form">
+                                <div class="box-body">
+                                    <div class="form-group">
+                                        <label for="txtName">Name</label>
+                                        <input type="text" class="form-control" id="txtName" placeholder="Enter Name" name="txtName" required>
+                                        
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="txtVakue">Value</label>
+                                        <input type="text" class="form-control" id="txtVakue" placeholder="Value">
+                                        
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="txtDescription">Description</label>
+                                        <textarea type="text" class="form-control" id="txtDescription" placeholder="Description" rows="4" cols="50"> </textarea>
+                                    </div>
+                                  
+
+                                    <div class="box-footer">
+                                        <div class="bs-example">
+
+                                        
+                                                <button type="button" class="btn btn-primary">Cancel</button>
+                                                <button type="button" class="btn btn-warning ml-2">Save</button>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                              
+                            </form>
+                        </div>
+                        </div>
+
+                 
+                  
+                </div>
+                <!-- /.row -->
+            </div><!-- /.container-fluid -->
+            <div class="container-fluid">
+                <div class="row">
+                    <!-- Default box -->
+                 
+                        <div class="col-xs-12">
+                            <div class="box">
+                                <div class="box-header">
+                                    <h3 class="box-title">Genral Setting</h3>
+                                </div>
+                                <!-- /.box-header -->
+                                <div class="box-body">
+                                    <table id="tblSettings" class="table table-bordered table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th>Name</th>
+                                                <th>Value</th>
+                                                <th>Description</th>
+                                                <th>Action</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var item in Model)
+                                            {
+                                            <tr class="set-@item.Name">
+
+                                                    <td>
+                                                        @item.Name
+                                                    </td>
+                                                    <td>
+                                                        @item.Value
+                                                    </td>
+                                                <td noedit="true">
+                                                        @item.Description
+                                                    </td>
+
+                                                <td noedit="true">
+                                                    <div class="tools">
+                                                        <button type="button" data-set="@item.Name" class="btn btn-primary btnaction">Edit</button>
+                                                       
+                                                        @*  <a href="" class="fa fa-edit" id="btnEdit"></a>
+                                                        <a href="" class="fa fa-trash-o" id="btnDelete"></a> *@
+
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            }
+                                           
+                                        </tbody>
+                                     
+                                    </table>
+                                </div>
+                                <!-- /.box-body -->
+                            </div>
+                            <!-- /.box -->
+
+                        
+                        </div>
+
+               
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+                <script src="~/js/scripts/pathconfigs.js"></script>
+                   
+                </div>
+            </div>
+            </section>
+        </div>
+    </div>
+
+<div id="modalSettings" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title" style="text-align-last: left">Update Settings</h4>
+            </div>
+            <div class="modal-body" id="Body">
+
+                
+
+            </div>
+            <div class="modal-footer">
+              
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    // (function () {
+    //     'use-strict';
+
+    //     var td = document.getElementsByTagName('td');
+    //     for (var i = 0; i < td.length; i++) {
+    //         td[i].addEventListener('click', change, false);
+    //     }
+
+    //     function change() {
+    //         if (this.firstChild.nodeType !== 3) {
+    //             return;
+    //         }
+
+    //         var docFrag = document.createDocumentFragment();
+    //         var input = document.createElement('input');
+    //         input.value = this.textContent;
+    //         this.removeChild(this.firstChild);
+    //         docFrag.appendChild(input);
+    //         this.appendChild(docFrag);
+    //     }
+    // }());
+
+    $(document).ready(function () {
+        var delayedFn, blurredFrom;
+        $('tr').on('blur', 'input', function (event) {
+            blurredFrom = event.delegateTarget;
+            delayedFn = setTimeout(function () {
+                alert("blurred");
+            }, 0);
+        });
+        $('tr').on('focus', 'input', function (event) {
+            if (blurredFrom === event.delegateTarget) {
+                clearTimeout(delayedFn);
+            }
+        });
+    });
+
+    $('.btnaction').click(function () {
+       
+        var edit = $(this).text().trim() == 'Edit';
+        $(this).html($(this).text().trim() == 'Edit' ? 'Save' : 'Edit');
+       
+        var $rows = $("tr.set-" + $(this).data("set"));
+       
+       
+        $rows.each(function () {
+            $(this).find("td").each(function () {
+                if ($(this).attr("noedit")) return false;
+                if (edit) {
+                    $(this).prop('contenteditable', true).css({
+                        'background': 'LightGray',
+                        'color': '#000'
+                    })
+                } else {
+                    $(this).prop('contenteditable', false).removeAttr("style");
+                }
+            });
+        });
+    });
+
+
+    function UpdateSetting(category,name) {
+   
+       
+        $.ajax({
+            type: "POST",
+            url: "/PathConfig/Edit?category=" + category + "&name=" + name,
+            contentType: "application/json; charset=utf-8",            
+            dataType: "html",
+            success: function (result, status, xhr) {
+                $("#Body").html(result);
+            },
+            error: function (xhr, status, error) {
+                $("#Body").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
+            }
+        });
+        $("#modalSettings").modal();
+    }
+
+
+</script>
+
+<!-- page script -->
+<script type="text/javascript">
+    $(function () {
+ 
+        $('#tblSettings').dataTable({
+            "bPaginate": true,
+            "bLengthChange": false,
+            "bFilter": false,
+            "bSort": true,
+            "bInfo": true,
+            "bAutoWidth": false
+        });
+    });
+</script>

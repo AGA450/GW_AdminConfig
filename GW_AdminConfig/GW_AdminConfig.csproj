@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="PagedList.Mvc" Version="4.5.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\js\Scripts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\Scripts\pathconfigs.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GW-Business">
+      <HintPath>..\..\GW-1\GW-1\GW-Business\bin\Debug\GW-Business.dll</HintPath>
+    </Reference>
+    <Reference Include="GW-Communication">
+      <HintPath>..\..\GW-1\GW-1\GW-Util\GW-Communication\bin\Debug\GW-Communication.dll</HintPath>
+    </Reference>
+    <Reference Include="GW-Message">
+      <HintPath>..\..\GW-1\GW-1\GW-Util\GW-Message\bin\Debug\netstandard2.0\GW-Message.dll</HintPath>
+    </Reference>
+    <Reference Include="GW-Util">
+      <HintPath>..\..\GW-1\GW-1\GW-Util\GW-Util\bin\Debug\GW-Util.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

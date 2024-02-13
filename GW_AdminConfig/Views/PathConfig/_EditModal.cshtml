@@ -1,0 +1,51 @@
+﻿  @model PathConfigModel
+<!-- _EditModal.cshtml -->
+<!-- ... (previous code) -->
+
+<div class="modal-body" id="editModalContent">
+  
+
+    <form id="editForm">
+        <div class="form-group">
+            <label for="editCategory">Category:</label>
+            <input type="text" class="form-control" id="editCategory" name="Category" value="@Model.Category" readonly />
+        </div>
+        <div class="form-group">
+            <label for="editName">Name:</label>
+            <input type="text" class="form-control" id="editName" name="Name" value="@Model.Name" readonly />
+        </div>
+        <div class="form-group">
+            <label for="editValue">Value:</label>
+            <input type="text" class="form-control" id="editValue" name="Value" value="@Model.Value" />
+        </div>
+        <div class="form-group">
+            <label for="editLastUpdatedBy">Last Updated By:</label>
+            <input type="text" class="form-control" id="editLastUpdatedBy" name="LastUpdatedBy" value="@Model.LastUpdatedBy" />
+        </div>
+        <button type="button" class="btn btn-danger" id="saveEditBtn" data-dismiss="modal">Update</button>
+        <div id="msg" ></div>
+    </form>
+</div>
+
+<script>
+    $('#saveEditBtn').click(function () {
+        $.ajax({
+            url: '/PathConfig/EditSetting',
+            type: 'POST',
+            data: $('#editForm').serialize(),
+            success: function (result) {
+                // $('#msg').addClass("label label-success");
+                // $('#msg').text('Settings Updated Successfully.');
+               // $('#modalSettings').modal('hide');
+                // Handle success, e.g., display a success message or update the UI
+                console.log(result);
+            },
+            error: function (xhr, status, error) {
+                // Handle errors, e.g., display an error message
+                // $('#msg').addClass("alert-danger");
+                // $('#msg').text('Settings Updated Successfully.');
+                console.error(xhr.responseText);
+            }
+        });
+    });
+</script>

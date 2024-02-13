@@ -1,0 +1,2921 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GW_AdminConfig.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GW_AdminConfig.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\bootstrap\\js\\npm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\forms.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\grid.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\image.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\labels.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\panels.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\resize.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\size.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\bootstrap-less\\variables.less",
+      "PackagePath": "staticwebassets\\build\\bootstrap-less\\variables.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\404_500_errors.less",
+      "PackagePath": "staticwebassets\\build\\less\\404_500_errors.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\AdminLTE.less",
+      "PackagePath": "staticwebassets\\build\\less\\AdminLTE.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\build\\less\\alerts.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\bootstrap-social.less",
+      "PackagePath": "staticwebassets\\build\\less\\bootstrap-social.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\boxes.less",
+      "PackagePath": "staticwebassets\\build\\less\\boxes.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\build\\less\\buttons.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\callout.less",
+      "PackagePath": "staticwebassets\\build\\less\\callout.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\build\\less\\carousel.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\core.less",
+      "PackagePath": "staticwebassets\\build\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\direct-chat.less",
+      "PackagePath": "staticwebassets\\build\\less\\direct-chat.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\dropdown.less",
+      "PackagePath": "staticwebassets\\build\\less\\dropdown.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\forms.less",
+      "PackagePath": "staticwebassets\\build\\less\\forms.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\build\\less\\fullcalendar.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\header.less",
+      "PackagePath": "staticwebassets\\build\\less\\header.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\info-box.less",
+      "PackagePath": "staticwebassets\\build\\less\\info-box.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\invoice.less",
+      "PackagePath": "staticwebassets\\build\\less\\invoice.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\labels.less",
+      "PackagePath": "staticwebassets\\build\\less\\labels.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\build\\less\\lockscreen.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\login_and_register.less",
+      "PackagePath": "staticwebassets\\build\\less\\login_and_register.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\mailbox.less",
+      "PackagePath": "staticwebassets\\build\\less\\mailbox.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\miscellaneous.less",
+      "PackagePath": "staticwebassets\\build\\less\\miscellaneous.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\build\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\modal.less",
+      "PackagePath": "staticwebassets\\build\\less\\modal.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\navs.less",
+      "PackagePath": "staticwebassets\\build\\less\\navs.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\products.less",
+      "PackagePath": "staticwebassets\\build\\less\\products.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\build\\less\\progress-bars.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\sidebar.less",
+      "PackagePath": "staticwebassets\\build\\less\\sidebar.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\_all-skins.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\_all-skins.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-black.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-black.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-blue.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-blue.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-green.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-green.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-purple.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-purple.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-red.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-red.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\skins\\skin-yellow.less",
+      "PackagePath": "staticwebassets\\build\\less\\skins\\skin-yellow.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\small-box.less",
+      "PackagePath": "staticwebassets\\build\\less\\small-box.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\table.less",
+      "PackagePath": "staticwebassets\\build\\less\\table.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\timeline.less",
+      "PackagePath": "staticwebassets\\build\\less\\timeline.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\users-list.less",
+      "PackagePath": "staticwebassets\\build\\less\\users-list.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\build\\less\\variables.less",
+      "PackagePath": "staticwebassets\\build\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\dist\\img\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\dist\\img\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\js\\app.js",
+      "PackagePath": "staticwebassets\\dist\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\documentation\\index.html",
+      "PackagePath": "staticwebassets\\documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\js\\Scripts\\pathconfigs.js",
+      "PackagePath": "staticwebassets\\js\\Scripts\\pathconfigs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\buttons.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\buttons.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\general.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\general.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\icons.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\icons.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\modals.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\modals.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\sliders.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\sliders.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\UI\\timeline.html",
+      "PackagePath": "staticwebassets\\pages\\UI\\timeline.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\calendar.html",
+      "PackagePath": "staticwebassets\\pages\\calendar.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\charts\\flot.html",
+      "PackagePath": "staticwebassets\\pages\\charts\\flot.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\charts\\inline.html",
+      "PackagePath": "staticwebassets\\pages\\charts\\inline.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\charts\\morris.html",
+      "PackagePath": "staticwebassets\\pages\\charts\\morris.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\404.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\404.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\500.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\500.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\blank.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\blank.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\invoice-print.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\invoice-print.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\invoice.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\invoice.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\lockscreen.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\lockscreen.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\login.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\login.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\examples\\register.html",
+      "PackagePath": "staticwebassets\\pages\\examples\\register.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\forms\\advanced.html",
+      "PackagePath": "staticwebassets\\pages\\forms\\advanced.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\forms\\editors.html",
+      "PackagePath": "staticwebassets\\pages\\forms\\editors.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\forms\\general.html",
+      "PackagePath": "staticwebassets\\pages\\forms\\general.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\layout\\boxed.html",
+      "PackagePath": "staticwebassets\\pages\\layout\\boxed.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\layout\\collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\pages\\layout\\collapsed-sidebar.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\layout\\fixed.html",
+      "PackagePath": "staticwebassets\\pages\\layout\\fixed.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\layout\\top-nav.html",
+      "PackagePath": "staticwebassets\\pages\\layout\\top-nav.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\mailbox.html",
+      "PackagePath": "staticwebassets\\pages\\mailbox.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\mailbox\\compose.html",
+      "PackagePath": "staticwebassets\\pages\\mailbox\\compose.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\mailbox\\mailbox.html",
+      "PackagePath": "staticwebassets\\pages\\mailbox\\mailbox.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\mailbox\\read-mail.html",
+      "PackagePath": "staticwebassets\\pages\\mailbox\\read-mail.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\tables\\data.html",
+      "PackagePath": "staticwebassets\\pages\\tables\\data.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\tables\\simple.html",
+      "PackagePath": "staticwebassets\\pages\\tables\\simple.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\pages\\widgets.html",
+      "PackagePath": "staticwebassets\\pages\\widgets.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\chartjs\\Chart.js",
+      "PackagePath": "staticwebassets\\plugins\\chartjs\\Chart.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\plugins\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\fakeobjects\\images\\spacer.gif",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\fakeobjects\\images\\spacer.gif"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmp.html",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmp.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog_ie7.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog_ie7.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\dialog_opera.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\dialog_opera.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor_ie.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor_ie7.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor_ie7.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\icons.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\icons.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\close.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\lock.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\skins\\moono\\readme.md",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\skins\\moono\\readme.md"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\plugins\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\img\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\img\\alpha-horizontal.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\img\\alpha.png",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\img\\alpha.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\img\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\img\\hue-horizontal.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\img\\hue.png",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\img\\hue.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\colorpicker\\img\\saturation.png",
+      "PackagePath": "staticwebassets\\plugins\\colorpicker\\img\\saturation.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\datepicker3.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ar.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.az.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.az.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.bg.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.bg.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ca.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ca.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.cs.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.cs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.cy.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.cy.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.da.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.da.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.de.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.de.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.el.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.el.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.es.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.es.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.et.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.et.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.fa.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.fa.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.fi.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.fi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.fr.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.fr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.gl.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.gl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.he.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.he.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.hr.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.hr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.hu.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.hu.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.id.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.id.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.is.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.is.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.it.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.it.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ja.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ja.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ka.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ka.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.kk.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.kk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.kr.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.kr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.lt.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.lt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.lv.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.lv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.mk.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.mk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ms.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ms.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.nb.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.nb.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.nl-BE.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.nl-BE.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.nl.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.nl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.no.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.no.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.pl.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.pl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.pt-BR.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.pt-BR.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.pt.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.pt.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ro.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ro.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.rs-latin.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.rs-latin.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.rs.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.rs.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ru.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ru.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.sk.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.sk.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.sl.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.sl.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.sq.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.sq.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.sv.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.sv.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.sw.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.sw.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.th.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.th.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.tr.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.tr.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.ua.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.ua.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.vi.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.vi.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.zh-CN.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.zh-CN.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\datepicker\\locales\\bootstrap-datepicker.zh-TW.js",
+      "PackagePath": "staticwebassets\\plugins\\datepicker\\locales\\bootstrap-datepicker.zh-TW.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\daterangepicker\\daterangepicker-bs3.css",
+      "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker-bs3.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fastclick\\fastclick.js",
+      "PackagePath": "staticwebassets\\plugins\\fastclick\\fastclick.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fastclick\\fastclick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fastclick\\fastclick.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\excanvas.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\excanvas.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.colorhelpers.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.colorhelpers.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.colorhelpers.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.colorhelpers.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.canvas.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.canvas.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.canvas.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.canvas.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.errorbars.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.errorbars.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.errorbars.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.errorbars.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.fillbetween.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.fillbetween.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.image.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.image.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.image.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.image.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.navigate.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.navigate.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.navigate.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.stack.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.stack.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.symbol.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.symbol.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.threshold.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.threshold.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\plugins\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\fullcalendar\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.print.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-be.json",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-be.json"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-codes.json",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-codes.json"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\input-mask\\phone-codes\\readme.txt",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\readme.txt"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ionslider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\plugins\\ionslider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ionslider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\plugins\\ionslider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ionslider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\plugins\\ionslider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\ionslider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\plugins\\ionslider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jQueryUI\\jquery-ui-1.10.3.js",
+      "PackagePath": "staticwebassets\\plugins\\jQueryUI\\jquery-ui-1.10.3.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jQueryUI\\jquery-ui-1.10.3.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jQueryUI\\jquery-ui-1.10.3.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jQuery\\jQuery-2.1.3.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jQuery\\jQuery-2.1.3.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\plugins\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\plugins\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\pace\\pace.js",
+      "PackagePath": "staticwebassets\\plugins\\pace\\pace.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\slimScroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\plugins\\slimScroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\slimScroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slimScroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\plugins\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Aditya\\Code\\GW_AdminConfig\\GW_AdminConfig\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GW_AdminConfig.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GW_AdminConfig.props",
+      "PackagePath": "build\\GW_AdminConfig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GW_AdminConfig.props",
+      "PackagePath": "buildMultiTargeting\\GW_AdminConfig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GW_AdminConfig.props",
+      "PackagePath": "buildTransitive\\GW_AdminConfig.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

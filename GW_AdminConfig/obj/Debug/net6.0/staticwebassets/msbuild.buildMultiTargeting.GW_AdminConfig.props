@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GW_AdminConfig.props" />
+</Project>
